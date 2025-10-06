@@ -36,14 +36,14 @@
       <td style="padding:6px;">2024</td>
     </tr>
     <tr>
-      <td style="padding:6px; vertical-align:top;"><b>2025 인하 인공지능 챌린지</b></td>
-      <td style="padding:6px;">언어 정보 기반 이미지 색채화(대학원생 부분 3등)</td>
+      <td style="padding:6px; vertical-align:top;"><b>LG Aimers 6기</b></td>
+      <td style="padding:6px;">난임 환자들의 임신 성공 확률을 예측하는 AI 모델 개발(예선 및 본선 진출)</td>
       <td style="padding:6px;">2025</td>
     </tr>
     <tr>
-      <td style="padding:6px; vertical-align:top;"><b>AI Image Colorization (COCO-LC)</b></td>
-      <td style="padding:6px;">Text-guided colorization using ControlNet and CLIP-guided mask blending</td>
-      <td style="padding:6px;">2024</td>
+      <td style="padding:6px; vertical-align:top;"><b>2025 인하 인공지능 챌린지</b></td>
+      <td style="padding:6px;">언어 정보 기반 이미지 색채화(대학원생 부분 3등)</td>
+      <td style="padding:6px;">2025</td>
     </tr>
   </table>
 </div>
