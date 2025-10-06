@@ -14,14 +14,38 @@
 
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Projects </h2>
-  <ul style="font-weight: 500; font-size: 14px; color: #282d33; list-style-type: circle;">
-    <li><b>Conformal Bayesian Prediction for Hierarchical Data</b> — Developing conformal prediction methods for hierarchical sensor structures (cell–module–pack) in battery manufacturing.</li>
-    <li><b>제5회 대구 빅데이터 분석 경진대회(2023)</b> — 기업 현황 분석을 통한 전략적 기업 대출 서비스 제안; 데이터 분석 부분 우수상 수상(2등)</li>
-    <li><b>제 3기 KEB 부트캠프(2024) </b> — 전기차 주행가능 거리를 반영한 충전소 추천 시스템 개발(2024.03~2024.06) ; 태양광 발전 예측 및 솔루션(2024.07~2024.08)</li>
-    <li><b>제4회 K-인공지능 제조데이터 분석 경진대회(2024) </b> — 제조 시계열 패턴 기반 불량 탐지 요인 해석 </li>
-    <li><b>Bayesian Neural Network with GVA / BBVI (NumPy-only)</b> — Implemented reparameterization trick and Gaussian Variational Approximation from scratch.</li>
-    <li><b>AI Image Colorization (COCO-LC)</b> — Text-guided colorization using ControlNet & CLIP-guided mask blending.</li>
-  </ul>
+  <table style="font-size:14px; font-weight:500; color:#282d33; border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Project</th>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Description</th>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Year</th>
+    </tr>
+    <tr>
+      <td style="padding:6px; vertical-align:top;"><b>제5회 대구 빅데이터 분석 경진대회</b></td>
+      <td style="padding:6px;">기업 현황 분석을 통한 전략적 기업 대출 서비스 제안<br>데이터 분석 부문 우수상(2등) 수상</td>
+      <td style="padding:6px;">2023</td>
+    </tr>
+    <tr>
+      <td style="padding:6px; vertical-align:top;"><b>제3기 KEB 부트캠프</b></td>
+      <td style="padding:6px;">전기차 주행가능 거리 기반 충전소 추천 시스템 개발 (03–06)<br>태양광 발전 예측 및 솔루션 개발 (07–08)</td>
+      <td style="padding:6px;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding:6px; vertical-align:top;"><b>제4회 K-인공지능 제조데이터 분석 경진대회</b></td>
+      <td style="padding:6px;">제조 시계열 패턴 기반 불량 탐지 요인 해석</td>
+      <td style="padding:6px;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding:6px; vertical-align:top;"><b>Bayesian Neural Network (NumPy-only)</b></td>
+      <td style="padding:6px;">Implemented reparameterization trick and Gaussian Variational Approximation (GVA/BBVI)</td>
+      <td style="padding:6px;">2024</td>
+    </tr>
+    <tr>
+      <td style="padding:6px; vertical-align:top;"><b>AI Image Colorization (COCO-LC)</b></td>
+      <td style="padding:6px;">Text-guided colorization using ControlNet and CLIP-guided mask blending</td>
+      <td style="padding:6px;">2024</td>
+    </tr>
+  </table>
 </div>
 
 <div align="left">
