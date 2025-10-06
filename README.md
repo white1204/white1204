@@ -15,7 +15,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Publications / Research </h2>
   <table style="font-size:14px; font-weight:500; color:#282d33; border-collapse:collapse;">
     <tr>
-      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Project</th>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Research Projects</th>
       <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Description</th>
       <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Year</th>
     </tr>
