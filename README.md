@@ -13,6 +13,18 @@
 </div>
 
 <div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Projects </h2>
+  <ul style="font-weight: 500; font-size: 14px; color: #282d33; list-style-type: circle;">
+    <li><b>Conformal Bayesian Prediction for Hierarchical Data</b> — Developing conformal prediction methods for hierarchical sensor structures (cell–module–pack) in battery manufacturing.</li>
+    <li><b>제5회 대구 빅데이터 분석 경진대회(2023)</b> — 기업 현황 분석을 통한 전략적 기업 대출 서비스 제안; 데이터 분석 부분 우수상 수상(2등)</li>
+    <li><b>제 3기 KEB 부트캠프(2024) </b> — 전기차 주행가능 거리를 반영한 충전소 추천 시스템 개발(2024.03~2024.06) ; 태양광 발전 예측 및 솔루션(2024.07~2024.08)</li>
+    <li><b>제4회 K-인공지능 제조데이터 분석 경진대회(2024) </b> — 제조 시계열 패턴 기반 불량 탐지 요인 해석 </li>
+    <li><b>Bayesian Neural Network with GVA / BBVI (NumPy-only)</b> — Implemented reparameterization trick and Gaussian Variational Approximation from scratch.</li>
+    <li><b>AI Image Colorization (COCO-LC)</b> — Text-guided colorization using ControlNet & CLIP-guided mask blending.</li>
+  </ul>
+</div>
+
+<div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <p>
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=plastic&logo=GitHub%20Pages&logoColor=white"/>
