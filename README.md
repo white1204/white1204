@@ -71,8 +71,8 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📘 Study / Community </h2>
   <ul style="font-weight: 500; font-size: 14px; color: #282d33; list-style-type: circle;">
-    <li><b>가짜연구소 10기 </b> — 실무로 통하는 인과추론 with python 리뷰 및 인과추론 방법론을 적용한 데이터 분석 진행(2024)</li>
-    <li><b>가짜연구소 11기 </b> 인과추론 코드집 배포(2025)</li>
+    <li><b>가짜연구소 10기 </b> — 실무로 통하는 인과추론 with python 리뷰 및 인과추론 방법론을 적용한 데이터 분석 진행(2025.03-08)</li>
+    <li><b>가짜연구소 11기 </b> 인과추론 코드집 배포(2025.09-)</li>
   </ul>
 </div>
 <div align="left">
