@@ -11,7 +11,23 @@
     <li>Also interested in <b>functional data analysis (FDA)</b> and <b>causal inference</b></li>
   </ul>
 </div>
-
+<div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Publications / Research </h2>
+  <table style="font-size:14px; font-weight:500; color:#282d33; border-collapse:collapse;">
+    <tr>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Project</th>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Description</th>
+      <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Year</th>
+    </tr>
+    <tr>
+      <td style="padding:6px; vertical-align:top;"><b>Unsupervised Conformal Novelty Detection for Hierarchical Data</b></td>
+      <td style="padding:6px;"> In preparation </td>
+      <td style="padding:6px;">2024-2025</td>
+    </tr>
+   
+    
+  </table>
+</div>
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Projects </h2>
   <table style="font-size:14px; font-weight:500; color:#282d33; border-collapse:collapse;">
