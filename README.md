@@ -36,9 +36,9 @@
       <td style="padding:6px;">2024</td>
     </tr>
     <tr>
-      <td style="padding:6px; vertical-align:top;"><b>Bayesian Neural Network (NumPy-only)</b></td>
-      <td style="padding:6px;">Implemented reparameterization trick and Gaussian Variational Approximation (GVA/BBVI)</td>
-      <td style="padding:6px;">2024</td>
+      <td style="padding:6px; vertical-align:top;"><b>2025 인하 인공지능 챌린지</b></td>
+      <td style="padding:6px;">언어 정보 기반 이미지 색채화(대학원생 부분 3등)</td>
+      <td style="padding:6px;">2025</td>
     </tr>
     <tr>
       <td style="padding:6px; vertical-align:top;"><b>AI Image Colorization (COCO-LC)</b></td>
