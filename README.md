@@ -21,8 +21,8 @@
       <th style="text-align:left; padding:6px; border-bottom:1px solid #d8dee4;">Year</th>
     </tr>
     <tr>
-      <td style="padding:6px; vertical-align:top;"><b>제5회 대구 빅데이터 분석 경진대회</b></td>
-      <td style="padding:6px;">기업 현황 분석을 통한 전략적 기업 대출 서비스 제안<br>데이터 분석 부문 우수상(2등) 수상</td>
+      <td style="padding:6px; vertical-align:top;"><b>🏆 제5회 대구 빅데이터 분석 경진대회</b></td>
+      <td style="padding:6px;">기업 현황 분석을 통한 전략적 기업 대출 서비스 제안<br>데이터 분석 부문 우수상(2등) 수상 </td>
       <td style="padding:6px;">2023</td>
     </tr>
     <tr>
@@ -36,12 +36,12 @@
       <td style="padding:6px;">2024</td>
     </tr>
     <tr>
-      <td style="padding:6px; vertical-align:top;"><b>LG Aimers 6기</b></td>
+      <td style="padding:6px; vertical-align:top;"><b>🏆 LG Aimers 6기</b></td>
       <td style="padding:6px;">난임 환자들의 임신 성공 확률을 예측하는 AI 모델 개발(예선 및 본선 진출)</td>
       <td style="padding:6px;">2025</td>
     </tr>
     <tr>
-      <td style="padding:6px; vertical-align:top;"><b>2025 인하 인공지능 챌린지</b></td>
+      <td style="padding:6px; vertical-align:top;"><b>🏆 2025 인하 인공지능 챌린지</b></td>
       <td style="padding:6px;">언어 정보 기반 이미지 색채화(대학원생 부분 3등)</td>
       <td style="padding:6px;">2025</td>
     </tr>
