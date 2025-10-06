@@ -52,6 +52,11 @@
       <td style="padding:6px;">2024</td>
     </tr>
     <tr>
+      <td style="padding:6px; vertical-align:top;"><b>심층신경망 특론</b></td>
+      <td style="padding:6px;">시계열 센서데이터 기반 엔진 이상 탐지</td>
+      <td style="padding:6px;">2024</td>
+    </tr>
+    <tr>
       <td style="padding:6px; vertical-align:top;"><b>🏆 LG Aimers 6기</b></td>
       <td style="padding:6px;">난임 환자들의 임신 성공 확률을 예측하는 AI 모델 개발(예선 및 본선 진출)</td>
       <td style="padding:6px;">2025</td>
